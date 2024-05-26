@@ -1,7 +1,7 @@
 ### Hi there 👋. Welcome to My Full Stack Development Journey!✨
 
 I'm Sbongile ZP Mdaki, a full-stack development enthusiast. 
-😄 Pronouns: She/Her
+Pronouns: She/Her
 
 Welcome aboard to my full-stack development journey. This is my guide through the exciting world of programming and development as I dive into desktop and web applications.
 

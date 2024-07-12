@@ -21,7 +21,7 @@ I'm already familiar with:
   - SQL (Structured Query Language)
 
 ## What I'm Currently Working Towards
-- 🔭 I’m currently working on desktop and web applications. I'm going to spend some time solidifying my understanding of HTML, CSS, Python, and JavaScript. After all, a strong foundation is key to success.
+- 🔭 I’m currently working on desktop and web applications. I'm going to spend some time solidifying my understanding of HTML, CSS, Python, and JavaScript.
 - 🌱 I’m currently learning web design using Django. 
 - 👯 I’m looking to collaborate on stimulating projects that solidify my understanding of both desktop and web application basics
 
@@ -35,10 +35,9 @@ I'm ready to master some frameworks to take my skills to the next level. Here's 
   - Frontend Frameworks: I'll be looking into React, Vue.js, or Angular to enhance my frontend skills.
 - **For Desktop Applications**:
   - PyQt: I'm excited to continue working with PyQt to create awesome desktop applications.
-  - I'm also considering exploring Electron for cross-platform desktop apps using HTML, CSS, and JavaScript.
 
 ### Building Projects
-Hands-on experience is crucial for software development. Hence I'll be building projects that combine my frontend and backend skills. Here are a few project ideas I have:
+I'll be building projects that combine my frontend and backend skills. Here are a few project ideas I have:
 - **Web Applications**:
   - High School Website
   - To-Do List Manager

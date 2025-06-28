@@ -1,54 +1,85 @@
-### Hi there 👋. Welcome to My Full Stack Development Journey!✨
+<h1 align="center">Hi there, I'm Sbongile Mdaki 👋</h1>
+<h3 align="center">Software Engineer | Backend Developer | Data Enthusiast </h3>
 
-I'm Sbongile ZP Mdaki, a full-stack development enthusiast. 
-Pronouns: She/Her
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SbongileM&style=flat-square&color=blue" alt="Profile views"/>
+</p>
 
-Welcome aboard to my full-stack development journey. This is my guide through the exciting world of programming and development as I dive into desktop and web applications.
+---
 
-## Technologies I'll Be Working With
-I'm already familiar with:
-- **Languages**: 
-  - HTML
-  - CSS
-  - Python
-  - C++
-  - JavaScript
-- **Frameworks and Libraries**:
-  - SFML (Simple and Fast Multimedia Library)
-  - PyQt (Python bindings for Qt)
-  - Django (Python web framework)
-- **Databases**:
-  - SQL (Structured Query Language)
+## 🚀 About Me
 
-## What I'm Currently Working Towards
-- 🔭 I’m currently working on desktop and web applications. I'm going to spend some time solidifying my understanding of HTML, CSS, Python, and JavaScript.
-- 🌱 I’m currently learning web design using Django. 
-- 👯 I’m looking to collaborate on stimulating projects that solidify my understanding of both desktop and web application basics
+Hello! I'm **Sbongile Mdaki**, a passionate learner and developer currently enrolled in the **ALX ProDev Backend Program**.  
 
-### Exploring Full Stack Concepts
-Since I'm passionate about both desktop and web applications, I'm eager to dive into full-stack development. Concepts like client-server architecture, HTTP requests, RESTful APIs, and database management are on my radar.
+I started my journey in software engineering because I believe in the power of technology to **solve real-world problems**, connect people, and drive meaningful change. My background in Electrical Engineering has given me a strong foundation in problem-solving and analytical thinking, which I now channel into building robust, and scalable software.
 
-### Diving into Frameworks
-I'm ready to master some frameworks to take my skills to the next level. Here's what I'm planning to explore:
-- **For Web Development**:
-  - Django: I want to build powerful web applications with Django.
-  - Frontend Frameworks: I'll be looking into React, Vue.js, or Angular to enhance my frontend skills.
-- **For Desktop Applications**:
-  - PyQt: I'm excited to continue working with PyQt to create awesome desktop applications.
+My ultimate goal is to **leverage technology, engineering, and data science to build systems that will change humanity for the better**.  
 
-### Building Projects
-I'll be building projects that combine my frontend and backend skills. Here are a few project ideas I have:
-- **Web Applications**:
-  - High School Website
-  - To-Do List Manager
-- **Desktop Applications**:
-  - To-Do List Manager
-  - Phone book
-  - Web browser
+---
 
-### Learning Continuously
-I'm committed to staying updated with the latest trends and tools in full-stack development. Engaging with online communities, forums, and tutorials will be part of my routine. I'm always up for experimenting with new technologies and ideas.
+## 🎯 What I'm Working On
 
-I'm thrilled to embark on this full-stack development journey! Challenges and discoveries await, but I'm ready to tackle them head-on. Here's to a rewarding and fulfilling journey ahead.
+🌱 Currently learning:
+- Advanced Backend Development with ALX
+- Project Planning and Database Design
+- DevOps concepts
+- Microservices and System Architecture
 
-Happy coding!
+💼 Building:
+- Scalable backend APIs
+- Data-driven solutions
+- Java learning programs
+
+---
+
+## 🌟 Mission & Inspiration
+
+✨ I'm driven by the **endless possibilities of using technology to create a measurable, positive impact on the world**. 
+💡 Inspired by:
+- Purpose-driven innovation
+- Mentorship and education
+
+Outside coding, I also **tutor to educate youth, pass down knowledge, and promote continuous learning**.
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- [🔗 Airbnb Clone](https://github.com/SbongileM/airbnb-clone-project) – A robust and scalable application for managing user interactions, property listings, bookings, and payments. It supports various functionalities, ensuring a smooth experience for users and hosts. The project is built using Django, Django REST Framework, PostgreSQL, GraphQL, Celery, Redis, and Docker.
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sbongile-zp-mdaki-9977a1250/)   
+- ✉️ [Email](mailto:Sbongilep4@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SbongileM&show_icons=true&theme=radical" alt="Sbongile's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SbongileM&theme=radical" alt="Sbongile's GitHub streak" />
+</p>
+
+
+<p align="center">
+  I'm thrilled to embark on this journey! Challenges and discoveries await, but I'm ready to tackle them head-on. Here's to a rewarding and fulfilling journey ahead.
+  <em>“Building systems to change humanity for the better.”</em>
+  Happy coding!
+</p>
+
